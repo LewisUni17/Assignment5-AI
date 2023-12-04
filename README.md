@@ -1,4 +1,4 @@
-# Assignment5-AI
+# Assignment5 - AI
 Assignment 5: AI
 
 Assignment Overview
